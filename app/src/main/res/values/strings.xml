@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">WonderlustIndo</string>
+    <string name="appbar_txt">Wisata Indonesia</string>
+    <string name="About">About</string>
+    <string name="tempat_wiata">Nama Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="my_name">Kelvin Dwipangga</string>
+    <string name="my_email">klvinnd@student.ub.ac.id</string>
+    <string name="my_pict">@drawable/profile_me</string>
+
+
+
+    <string-array name="data_name">
+        <item>Bali</item>
+        <item>Candi Borobudur</item>
+        <item>Candi Perambanan</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Ijen</item>
+        <item>Nusa Penida</item>
+        <item>Pulau Komodo</item>
+        <item>Pulau Lombok</item>
+        <item>Pura Luhur Uluwatu</item>
+        <item>Raja Ampat</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Bali, dikenal juga sebagai Kepulauan Bali atau Pulau Dewata adalah sebuah provinsi yang terletak di Indonesia. Ibu kotanya adalah Denpasar. Provinsi Bali terletak di bagian barat Kepulauan Nusa Tenggara. Di awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi, yakni Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur. Pada tahun 2020, penduduk provinsi Bali berjumlah 4.317.404 jiwa, dengan kepadatan 747 jiwa/km2, dan pada akhir 2023 berjumlah 4.344.554 jiwa.
+            \n\n Selain terdiri dari pulau Bali, wilayah provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu pulau Nusa Penida, pulau Nusa Lembongan, pulau Nusa Ceningan, Pulau Serangan, dan Pulau Menjangan. Secara geografis, Bali terletak di antara Pulau Jawa dan Pulau Lombok. Mayoritas penduduk Bali adalah pemeluk agama Hindu. Di dunia, Bali terkenal sebagai tujuan pariwisata dengan keunikan berbagai hasil seni-budayanya dan juga mitosnya, khususnya bagi para wisatawan Jepang dan Australia. Bali juga dikenal dengan julukan Pulau Dewata dan Pulau Seribu Pura.
+            \n\n Pulau Bali adalah bagian dari Kepulauan Sunda Kecil di sebelah barat. Wilayah Pulau Bali sepanjang 153 km dan selebar 112 km sekitar 3,2 km dari Pulau Jawa. Secara geografis, Bali terletak di 8°25′23″ Lintang Selatan dan 115°14′55″ Bujur Timur yang membuatnya beriklim tropis seperti bagian Indonesia yang lain.
+            \n\n Gunung Agung adalah titik tertinggi di Bali setinggi 3.148 m. Gunung berapi ini terakhir meletus pada Maret 1963. Gunung Batur juga salah satu gunung yang ada di Bali. Sekitar 30.000 tahun yang lalu, Gunung Batur meletus dan menghasilkan bencana yang dahsyat di bumi. Berbeda dengan di bagian utara, bagian selatan Bali adalah dataran rendah yang dialiri sungai-sungai.
+        </item>
+        <item>
+            Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia, sekaligus salah satu monumen Buddha terbesar di dunia.
+            \n\n Monumen ini terdiri atas enam teras berbentuk bujur sangkar yang di atasnya terdapat tiga pelataran melingkar, pada dindingnya dihiasi dengan 2.672 panel relief dan aslinya terdapat 504 arca Buddha.[4] Borobudur memiliki koleksi relief Buddha terlengkap dan terbanyak di dunia.[3] Stupa utama terbesar terletak di tengah sekaligus memahkotai bangunan ini, dikelilingi oleh tiga barisan melingkar 72 stupa berlubang yang di dalamnya terdapat arca Buddha tengah duduk bersila dalam posisi teratai sempurna dengan mudra (sikap tangan) Dharmachakra mudra (memutar roda dharma).
+            \n\n Monumen ini merupakan model alam semesta dan dibangun sebagai tempat suci untuk memuliakan Buddha sekaligus berfungsi sebagai tempat ziarah untuk menuntun umat manusia beralih dari alam nafsu duniawi menuju pencerahan dan kebijaksanaan sesuai ajaran Buddha.[5] Para peziarah masuk melalui sisi timur dan memulai ritual di dasar candi dengan berjalan melingkari bangunan suci ini searah jarum jam, sambil terus naik ke undakan berikutnya melalui tiga tingkatan ranah dalam kosmologi Buddha. Ketiga tingkatan itu adalah Kāmadhātu (ranah hawa nafsu), Rupadhatu (ranah berwujud), dan Arupadhatu (ranah tak berwujud). Dalam perjalanannya para peziarah berjalan melalui serangkaian lorong dan tangga dengan menyaksikan tak kurang dari 1.460 panel relief indah yang terukir pada dinding dan pagar langkan.
+        </item>
+        <item>
+            Candi Prambanan adalah bangunan candi bercorak agama Hindu terbesar di Indonesia yang dibangun pada abad ke-9 Masehi. Candi yang juga disebut sebagai Rara Jonggrang ini dipersembahkan untuk Trimurti, tiga dewa utama Hindu yaitu dewa Brahma sebagai dewa pencipta, dewa Wisnu sebagai dewa pemelihara, dan dewa Siwa sebagai dewa pemusnah. Berdasarkan prasasti Siwagrha nama asli kompleks candi ini adalah Siwagrha (bahasa Sanskerta yang bermakna "Rumah Siwa'"), dan memang di garbagriha (ruang utama) candi ini bersemayam arca Siwa Mahadewa setinggi tiga meter, dikarenakan aliran Syaiwa yang mengutamakan pemujaan dewa Siwa di candi ini.
+            \n\n Kompleks percandian Prambanan secara keseluruhan terletak di Daerah Istimewa Yogyakarta, tetapi pintu administrasinya terletak di Jawa Tengah. Hal ini yang membuat Candi Prambanan terletak di 2 tempat yakni di Desa Bokoharjo, Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta, dan di Tlogo, Prambanan, Kabupaten Klaten, Jawa Tengah, atau kurang lebih 17 kilometer timur laut dari Kota Yogya, 50 kilometer barat daya dari Kota Surakarta dan 120 kilometer selatan dari Kota Semarang, persis di perbatasan antara Daerah Istimewa Yogyakarta dan Jawa Tengah
+            \n\n Candi ini adalah termasuk Situs Warisan Dunia UNESCO, candi Hindu terbesar di Indonesia, sekaligus salah satu candi terindah di Asia Tenggara. Arsitektur bangunan ini berbentuk tinggi dan ramping sesuai dengan arsitektur Hindu pada umumnya dengan candi Siwa sebagai candi utama memiliki ketinggian mencapai 47 meter menjulang di tengah kompleks gugusan candi-candi yang lebih kecil. Sebagai salah satu candi termegah di Asia Tenggara, candi Prambanan menjadi daya tarik kunjungan wisatawan dari seluruh dunia.
+        </item>
+        <item>
+            Gunung Bromo atau dalam bahasa Tengger dieja "Brama", juga disebut Kaldera Tengger, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru.
+            \n\n Nama Bromo berasal dari nama dewa utama dalam agama Hindu, Brahma.
+            \n\n Bentuk tubuh Gunung Bromo bertautan antara lembah dan ngarai dengan kaldera atau lautan pasir seluas sekitar 10 kilometer persegi, Ia mempunyai sebuah kawah dengan garis tengah ± 800 meter (utara-selatan) dan ± 600 meter (timur-barat). Sedangkan daerah bahayanya berupa lingkaran dengan jari-jari 4 km dari pusat kawah Bromo.
+        </item>
+        <item>
+            Gunung Ijen adalah sebuah gunung berapi yang terletak di perbatasan Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.386 mdpl. Gunung Ijen terakhir meletus pada tahun 1999. Salah satu fenomena alam yang paling terkenal dari Gunung Ijen adalah blue fire (api biru) di dalam kawah yang terletak di puncak gunung tersebut. Pendakian gunung ini bisa dimulai dari dua tempat, yakni dari Banyuwangi atau dari Bondowoso].
+            \n\n Rute pendakian
+            \n\n Untuk mencapai kawah Gunung Ijen di Banyuwangi, pengunjung dapat menggunakan kereta api ekonomi dengan tujuan Banyuwangi dan turun di Stasiun Banyuwangi Kota kemudian naik ojek dengan tujuan Kecamatan Licin dan Desa Tamansari. Dari Tamansari, perjalanan dilanjutkan menuju Paltuding dengan menumpang truk pengangkut belerang atau menggunakan bus dan turun di Banyuwangi kota kemudian naik ojek bisa langsung ke Paltuding atau ke Desa Tamansari juga bisa namun dengan menggunakan bus tarif yang dikeluarkan akan lebih mahal. Pintu gerbang utama ke Cagar Alam Taman Wisata Kawah Ijen terletak di Paltuding, yang juga merupakan Pos PHPA (Perlindungan Hutan dan Pelestarian Alam). Alternatif rute adalah Bondowoso - Wonosari - Tapen - Sempol - Paltuding. Fasilitas lain yang dapat dinikmati oleh pengunjung antara lain pondok wisata dan warung yang menjual keperluan pendakian untuk menyaksikan keindahan kawah Ijen. Dari Paltuding berjalan kaki dengan jarak sekitar 3 km. Lintasan awal sejauh 2 KM cukup berat karena menanjak. Sebagian besar jalur adalah dengan kemiringan 25-35 derajat. Selain menanjak, struktur tanahnya juga berpasir sehingga menambah semakin berat langkah kaki karena harus menahan berat badan agar tidak merosot ke belakang. Setelah beristirahat di Warung Pos Bundar (pos yang unik karena memiliki bentuk lingkaran), jalur selanjutnya naik agak curam dan licin, dilanjutkan 1 KM terakhir relatif landai, tetapi wisatawan / pendaki disuguhi pemandangan deretan pegunungan yang sangat indah. Untuk turun menuju ke kawah harus melintasi medan berbatu-batu sejauh 800 meter dengan kondisi yang terjal hingga kemiringan 45 derajat.
+        </item>
+        <item>
+            Nusa Penida adalah sebuah pulau bagian dari kabupaten Klungkung, bali Indonesia yang terletak di sebelah tenggara Bali yang dipisahkan oleh Selat Badung. Di dekat pulau ini terdapat juga pulau-pulau kecil lainnya yaitu Nusa Ceningan dan Nusa Lembongan. Perairan pulau Nusa Penida terkenal dengan kawasan selamnya di antaranya terdapat di Crystal Bay, Manta Point, Batu Meling, Batu Lumbung, Batu Abah, Toyapakeh dan Malibu Point.
+            \n\n Kondisi Geografis Nusa Penida
+            \n\n Perbukitan dan kapur karang merupakan kondisi tanah di pulau ini, salah satunya gunung bukit tertinggi bernama Gunung Mundi yang terletak di Kecamatan Nusa Penida. Sumber air adalah mata air dan sungai hanya terdapat di wilayah daratan Kabupaten Klungkung yang mengalir sepanjang tahun.
+            \n\n Desa-desa pesisir nusa penida di sepanjang pantai bagian utara berupa lahan datar dengan kemiringan 0 – 3 % dari ketinggian lahan 0-268 m dpl.
+            \n\n Sedangkan di Kecamatan Nusa Penida sama sekali tidak ada sungai. Sumber air di Kecamatan Nusa Penida adalah mata air dan air hujan yang ditampung dalam cubang oleh penduduk setempat. Kabupaten Klungkung termasuk beriklim tropis. Bulan-bulan basah dan bulan-bulan kering antara Kecamatan Nusa Penida dan Kabupaten Klungkung daratan sangat berbeda.
+            \n\n Infrastruktur wisata dan pengembangan akses ke lokasi destinasi wisata sudah mulai tumbuh di Bali 3 nusa ini. Keramahan lokal akan anda temui di setiap sudut Bali 3 nusa ini yang memiliki populasi 46.749 jiwa (8.543 KK) pada sensus 2010, meliputi 202,8 km2 yang sudah mulai banyak mengalami perubahan sejak 10 tahun belakangan ini.
+            \n\n Secara administratif, kecamatan di Kabupaten Klungkung ini terdiri dari 4 kecamatan besar (Kecamatan Klungkung, Kecamatan Banjarangkan, Kecamatan Dawan dan Kecamatan Nusa Penida). Kecamatan Nusa Penida terdiri dari tiga kepulauan yaitu Pulau Nusa Penida, Pulau Lembongan dan Pulau Ceningan, dan terdiri dari 16 Desa Dinas. Pulau Nusa Penida bisa ditempuh dari empat lokasi dermaga.
+        </item>
+        <item>
+            Pulau Komodo adalah sebuah pulau yang terletak di Kepulauan Nusa Tenggara, berada di sebelah timur Pulau Sumbawa, yang dipisahkan oleh Selat Sape. Pulau Komodo dikenal sebagai habitat asli hewan komodo. Pulau ini termasuk salah satu kawasan Taman Nasional Komodo yang dikelola oleh Pemerintah Pusat.
+            \n\n Secara administratif, pulau ini termasuk wilayah Kabupaten Manggarai Barat, Kecamatan Komodo, Provinsi Nusa Tenggara Timur, Indonesia. Pulau Komodo merupakan ujung paling barat Provinsi Nusa Tenggara Timur, berbatasan dengan Provinsi Nusa Tenggara Barat.
+            \n\n Di Pulau Komodo, hewan komodo hidup dan berkembang biak dengan baik. Hingga Agustus 2009, di pulau ini terdapat sekitar 1300 ekor komodo. Ditambah dengan pulau lain, seperti Pulau Rinca dan dan Gili Motang, jumlah mereka keseluruhan mencapai sekitar 2500 ekor. Ada pula sekitar 100 ekor komodo di Cagar Alam Wae Wuul di daratan Pulau Flores tapi tidak termasuk wilayah Taman Nasional Komodo.
+            \n\n Selain komodo, pulau ini juga menyimpan eksotisme flora yang beragam kayu sepang yang oleh warga sekitar digunakan sebagi obat dan bahan pewarna pakaian, pohon nitak ini atau sterculia oblongata di yakini berguna sebagai obat dan bijinya gurih dan enak seperti kacang polong.
+            \n\n Pulau Komodo juga diterima sebagai Situs Warisan Dunia UNESCO, karena dalam wilayah Taman Nasional Komodo, bersama dengan Pulau Rinca, Pulau Padar dan Gili Motang.
+        </item>
+        <item>
+            Pulau Lombok adalah sebuah pulau di kepulauan Sunda Kecil atau Nusa Tenggara yang terpisahkan oleh Selat Lombok dari Bali di sebelah barat dan Selat Alas di sebelah timur dari Sumbawa. Pulau ini kurang lebih berbentuk bulat dengan semacam "ekor" di sisi barat daya yang panjangnya kurang lebih 70 km.Luas pulau ini mencapai 5.435 km² menempatkannya pada peringkat 108 dari daftar pulau berdasarkan luasnya di dunia. Namanya berasal dari Sasak lomboq, yang artinya "lurus, jujur". Kota utama di pulau ini adalah Kota Mataram.
+            \n\n Pulau Lombok merupakan salah satu dari dua pulau besar yang termasuk dalam wilayah provinsi Nusa Tenggara Barat. WIlayah Pulau Lombok terbagi menjadi 4 kabupaten dan 1 kota, yaitu Kabupaten Lombok Barat, Kabupaten Lombok Tengah, Kabupaten Lombok Timur, Kabupaten Lombok Utara dan Kota Mataram.
+        </item>
+        <item>
+            Pura Luhur Uluwatu atau Pura Uluwatu merupakan pura yang berada di wilayah Desa Adat Pecatu, Kecamatan Kuta Selatan, Kabupaten Badung.
+            \n\n Pura yang terletak di ujung barat daya pulau Bali di atas anjungan batu karang yang terjal dan tinggi serta menjorok ke laut ini merupakan Pura Sad Kayangan yang dipercaya oleh orang Hindu sebagai penyangga dari 9 mata angin. Pura ini pada mulanya digunakan menjadi tempat memuja seorang pendeta suci dari abad ke-11 bernama Empu Kuturan. Ia menurunkan ajaran Desa Adat dengan segala aturannya.
+            \n\n Pura ini juga dipakai untuk memuja pendeta suci berikutnya, yaitu Dang Hyang Nirartha, yang datang ke Bali pada akhir tahun 1550 dan mengakhiri perjalanan sucinya dengan apa yang dinamakan Moksa atau Ngeluhur di tempat ini. Kata inilah yang menjadi asal nama Pura Luhur Uluwatu.
+            \n\n Pura Uluwatu terletak pada ketinggian 97 meter dari permukaan laut. Di depan pura terdapat hutan kecil yang disebut alas kekeran, berfungsi sebagai penyangga kesucian pura.
+        </item>
+        <item>
+            Kepulauan Raja Ampat adalah gugusan kepulauan yang berlokasi di barat bagian Semenanjung Kepala Burung Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat dan Kota Sorong, Provinsi Papua Barat Daya. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi anggotanya dinamakan menurut empat pulau terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.
+            \n\n Tim ahli dari Conservation International, The Nature Conservancy, dan Lembaga Oseanografi Nasional (LON) Lembaga Ilmu Pengetahuan Indonesia (LIPI) pernah melakukan penilaian cepat pada 2001 dan 2002. Hasilnya, mereka mencatat di perairan ini terdapat lebih dari 540 jenis karang keras (75% dari total jenis di dunia), lebih dari 1.000 jenis ikan karang, 700 jenis moluska, dan catatan tertinggi bagi gonodactyloid stomatopod crustaceans. Ini menjadikan 75% spesies karang dunia berada di Raja Ampat. Tak satupun tempat dengan luas area yang sama memiliki jumlah spesies karang sebanyak ini.
+            \n\n Ada beberapa kawasan terumbu karang yang masih sangat baik kondisinya dengan persentase penutupan karang hidup hingga 90%, yaitu di selat Dampier (selat antara Pulau Waigeo dan Pulau Batanta), Kepulauan Kofiau, Kepualauan Misool Tenggara dan Kepulauan Wayag. Tipe dari terumbu karang di Raja Ampat umumnya adalah terumbu karang tepi dengan kontur landai hingga curam. Tetapi ditemukan juga tipe atol dan tipe gosong atau taka. Di beberapa tempat seperti di kampung Saondarek, ketika pasang surut terendah, bisa disaksikan hamparan terumbu karang tanpa menyelam dan dengan adaptasinya sendiri, karang tersebut tetap bisa hidup walaupun berada di udara terbuka dan terkena sinar matahari langsung.
+            \n\n Spesies yang unik yang bisa dijumpai pada saat menyelam adalah beberapa jenis kuda laut katai, wobbegong, dan ikan pari Manta. Juga ada ikan endemik raja ampat, yaitu Eviota raja, yaitu sejenis ikan gobbie. Di Manta point yg terletak di Arborek selat Dampier, Anda bisa menyelam dengan ditemani beberapa ekor Pari Manta yang jinak seperti ketika Anda menyelam di Kepulauan Derawan, Kalimantan Timur. Jika menyelam di Cape Kri atau Chicken Reef, Anda bisa dikelilingi oleh ribuan ikan. Kadang kumpulan ikan tuna, giant trevallies dan snappers. Tapi yang menegangkan jika kita dikelilingi oleh kumpulan ikan barakuda, walaupun sebenarnya itu relatif tidak berbahaya (yang berbahaya jika kita ketemu barakuda soliter atau sendirian). Hiu karang juga sering terlihat, dan kalau beruntung Anda juga bisa melihat penyu sedang diam memakan sponge atau berenang di sekitar anda. Di beberapa tempat seperti di Salawati, Batanta dan Waigeo juga terlihat Dugong atau ikan duyung.
+            \n\n Karena daerahnya yang banyak pulau dan selat sempit, maka sebagian besar tempat penyelaman pada waktu tertentu memiliki arus yang kencang. Hal ini memungkinkan juga untuk melakukan drift dive, menyelam sambil mengikuti arus yang kencang dengan air yang sangat jernih sambil menerobos kumpulan ikan.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bali</item>
+        <item>@drawable/candi_borobudur</item>
+        <item>@drawable/candi_perambanan</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/gunung_ijen</item>
+        <item>@drawable/nusa_penida</item>
+        <item>@drawable/pulau_komodo</item>
+        <item>@drawable/pulau_lombok</item>
+        <item>@drawable/pura_luhur_uluwatu</item>
+        <item>@drawable/raja_ampat</item>
+    </integer-array>
+</resources>
